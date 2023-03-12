@@ -36,7 +36,7 @@
                 <p>We’d love the opportunity to further collaborate with you to build an engaging and effective behavioural change platform for Rail Safety Week 2023 (and way beyond!).</p>
                 <p>We look forward to talking more.</p>
                 <p>Ngā mihi nui</p>
-                <a href="./pdfs/test.pdf" class="button">Download Presentation [update pdf]</a>
+                <a href="./pdfs/Federation_Pitch-Rail_Safety_Week-v2.pdf" class="button">Download Presentation</a>
             </div>            
         </section>
     </div>
